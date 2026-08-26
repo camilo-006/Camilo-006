@@ -1,7 +1,7 @@
 <!-- ======= HERO SECTION ======= -->
 <div align="center">
   <!-- Dynamic Waving Banner with Name -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Brayan%20Alarcón&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Bogotá,%20Colombia&descSize=18&descAlignY=62&descColor=a1a7ab" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Camilo%20Alarcón&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Bogotá,%20Colombia&descSize=18&descAlignY=62&descColor=a1a7ab" width="100%"/>
 
   <!-- Typing Effect Subtitle -->
   <a href="#about">
