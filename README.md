@@ -75,14 +75,14 @@
     <table border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td valign="top">
-          <h3 style="color: #58a6ff; margin-top: 0;">🎟️ Sistema de Helpdesk & Gestión de Tickets</h3>
+          <h3 style="color: #58a6ff; margin-top: 0;">🎟️ Sistema de Gestión de Tickets</h3>
           <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
             <img src="https://img.shields.io/badge/Arquitectura-MVC-orange?style=flat-square"/>
           </div>
           <p style="font-size: 15px; color: #c9d1d9;">Plataforma web completa para soporte técnico. Implementa control de accesos basado en roles (RBAC), flujo de estados de tickets y dashboard administrativo. Enfocado en mantenibilidad y escalabilidad.</p>
-          <a href="https://github.com/Camilo-006"><strong>Ver Repositorio ➔</strong></a>
+          <a href="https://github.com/camilo-006/SG_TICKETS.git"><strong>Ver Repositorio ➔</strong></a>
         </td>
       </tr>
     </table>
