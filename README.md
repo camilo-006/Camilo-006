@@ -93,14 +93,14 @@
     <table border="0" cellpadding="0" cellspacing="0">
       <tr>
         <td valign="top">
-          <h3 style="color: #7ee787; margin-top: 0;">📦 Plataforma de Inventarios y Reportes</h3>
+          <h3 style="color: #7ee787; margin-top: 0;">sistema de copia de backup corporativos</h3>
           <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
             <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
             <img src="https://img.shields.io/badge/Automatización-XML-blueviolet?style=flat-square"/>
           </div>
-          <p style="font-size: 15px; color: #c9d1d9;">Aplicación Full Stack orientada a la trazabilidad de insumos. Lógica backend robusta en Python, persistencia estructurada en SQL y generación dinámica de informes XML/SQL.</p>
-          <a href="https://github.com/Camilo-006"><strong>Ver Repositorio ➔</strong></a>
+          <p style="font-size: 15px; color: #c9d1d9;">aplicacion realizada 10% con python con el fin de realizar backups en empresas a nivel masivo sin perder informacion y evitar interrupciones XML/SQL.</p>
+          <a href=" https://github.com/camilo-006/archivpass.git"><strong>Ver Repositorio ➔</strong></a>
         </td>
       </tr>
     </table>
