@@ -96,8 +96,6 @@
           <h3 style="color: #7ee787; margin-top: 0;">sistema de copia de backup corporativos</h3>
           <div style="margin-bottom: 10px;">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Automatización-XML-blueviolet?style=flat-square"/>
           </div>
           <p style="font-size: 15px; color: #c9d1d9;">aplicacion realizada 10% con python con el fin de realizar backups en empresas a nivel masivo sin perder informacion y evitar interrupciones XML/SQL.</p>
           <a href="https://github.com/camilo-006/archivpass.git"><strong>Ver Repositorio ➔</strong></a>
@@ -114,11 +112,12 @@
         <td valign="top">
           <h3 style="color: #58a6ff; margin-top: 0;"> pagina de local Flash Food</h3>
           <div style="margin-bottom: 10px;">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Arquitectura-MVC-orange?style=flat-square"/>
           </div>
-          <p style="font-size: 15px; color: #c9d1d9;">Plataforma web completa para publicidad y geestion de pedidos para local de comidas rapidad "Flash Food"</p>
+          <p style="font-size: 15px; color: #c9d1d9;">Plataforma web completa para publicidad, geestion de pedidos y administracion de cambio de precios, con base de datos actualizable desde el admin para local de comidas rapidad "Flash Food"</p>
           <a href="https://github.com/camilo-006/SG_TICKETS.git"><strong>Ver Repositorio ➔</strong></a>
         </td>
       </tr>
