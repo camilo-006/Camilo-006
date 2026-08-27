@@ -127,32 +127,7 @@
 <br>
 <br>
 
-<!-- ======= METRICS SECTION ======= -->
-## 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="10">
-    <tr>
-      <!-- STATS CARD -->
-      <td valign="top" width="50%">
-        <div style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
-          <img src="https://github-readme-stats.vercel.app/api?username=Camilo-006&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stats de Camilo-006" />
-        </div>
-      </td>
-      <!-- LANGAUGES CARD -->
-      <td valign="top" width="50%">
-        <div style="border: 1px solid #30363d; border-radius: 10px; padding: 10px; background-color: #0d1117;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-006&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" alt="Lenguajes de Camilo-006" />
-        </div>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camilo-006&theme=dark&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=c9d1d9" alt="Streak Stats" />
-</div>
-
-<br>
-<br>
 
 <!-- ======= FOOTER SECTION ======= -->
 <div align="center">
