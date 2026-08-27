@@ -133,5 +133,5 @@
 <!-- ======= FOOTER SECTION ======= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer" width="100%"/>
-  <p style="color: #8b949e; font-size: 12px;">© 2024 Brayan Alarcón | Construido con Markdown & Modernidad</p>
+  <p style="color: #8b949e; font-size: 12px;">© 2024 Camilo Alarcón | Construido con Markdown & Modernidad</p>
 </div>
