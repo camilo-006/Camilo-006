@@ -67,7 +67,7 @@
 <br>
 
 <!-- ======= PROJECTS SECTION ======= -->
-## 🚀 Proyectos Full Stack Destacados
+## 🚀 Proyectos Destacados
 
 <div align="center">
   <!-- Card de Proyecto 1 -->
