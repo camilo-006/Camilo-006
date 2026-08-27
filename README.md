@@ -100,7 +100,7 @@
             <img src="https://img.shields.io/badge/Automatización-XML-blueviolet?style=flat-square"/>
           </div>
           <p style="font-size: 15px; color: #c9d1d9;">aplicacion realizada 10% con python con el fin de realizar backups en empresas a nivel masivo sin perder informacion y evitar interrupciones XML/SQL.</p>
-          <a href=" https://github.com/camilo-006/archivpass.git"><strong>Ver Repositorio ➔</strong></a>
+          <a href="https://github.com/camilo-006/archivpass.git"><strong>Ver Repositorio ➔</strong></a>
         </td>
       </tr>
     </table>
