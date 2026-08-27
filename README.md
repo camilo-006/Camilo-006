@@ -10,7 +10,7 @@
   <br>
 
   <!-- Social & Contact Buttons -->
-  <a href="https://www.linkedin.com/in/brayan-alarcon-dev">
+  <a href="www.linkedin.com/in/brayan-camilo-alarcon-chávez-7b195b383">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
